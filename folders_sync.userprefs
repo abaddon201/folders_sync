@@ -1,0 +1,53 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="folders_sync/RemovalThread.cs">
+    <Files>
+      <File FileName="folders_sync/ReceiverThread.cs" Line="102" Column="1" />
+      <File FileName="folders_sync/Md5Thread.cs" Line="1" Column="1" />
+      <File FileName="folders_sync/Logger.cs" Line="1" Column="1" />
+      <File FileName="folders_sync/FSOps.cs" Line="383" Column="1" />
+      <File FileName="folders_sync/RemovalThread.cs" Line="37" Column="7" />
+      <File FileName="folders_sync/Program.cs" Line="74" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="folders_sync" expanded="True">
+            <Node name="RemovalThread.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>fi3.CreationTimeUtc</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/FSOps.cs" line="297" />
+      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/Md5Thread.cs" line="77" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.folders__sync>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="def" Id="235ae43a-ad1c-4fae-9713-f5dc04ee7f54" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="ttt1 ttt2" WorkingDirectory="/home/glebov/" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value DebugMode="True" DebugCasts="True" DebugMdbOptimizations="True" GdbInfo="True" XDebug="True" ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.folders__sync>
+</Properties>
