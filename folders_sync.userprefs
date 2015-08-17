@@ -1,36 +1,19 @@
-﻿<Properties>
+﻿<Properties StartupItem="folders_sync/folders_sync.csproj" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="folders_sync/RemovalThread.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="folders_sync/Program.cs">
     <Files>
-      <File FileName="folders_sync/ReceiverThread.cs" Line="102" Column="1" />
+      <File FileName="folders_sync/ReceiverThread.cs" Line="1" Column="1" />
       <File FileName="folders_sync/Md5Thread.cs" Line="1" Column="1" />
       <File FileName="folders_sync/Logger.cs" Line="1" Column="1" />
-      <File FileName="folders_sync/FSOps.cs" Line="383" Column="1" />
+      <File FileName="folders_sync/FSOps.cs" Line="13" Column="4" />
       <File FileName="folders_sync/RemovalThread.cs" Line="37" Column="7" />
       <File FileName="folders_sync/Program.cs" Line="74" Column="16" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="folders_sync" expanded="True">
-            <Node name="RemovalThread.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>fi3.CreationTimeUtc</Value>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/FSOps.cs" line="297" />
-      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/Md5Thread.cs" line="77" />
+      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/FSOps.cs" line="297" column="1" />
+      <Breakpoint file="/home/glebov/_work/_projects/folders_sync/folders_sync/Md5Thread.cs" line="77" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

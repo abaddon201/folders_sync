@@ -42,7 +42,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Delimon.Win32.IO">
-      <HintPath>Delimon.Win32.IO.dll</HintPath>
+      <HintPath>externals\Delimon.Win32.IO.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -62,9 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Delimon.Win32.IO.dll" />
+    <None Include="Delimon.Win32.IO.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
